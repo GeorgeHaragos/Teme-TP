@@ -1,0 +1,8 @@
+Numele fisierului: Yes
+Dimensiunea fisierului in bytes: 1023
+Extensia fisierului: ".doc"
+Tipul fisierului: read-only
+Numele fisierului: No
+Dimensiunea fisierului in bytes: 999
+Extensia fisierului: ".txt"
+Tipul fisierului: normal
