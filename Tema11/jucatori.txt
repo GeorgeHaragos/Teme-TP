@@ -1,0 +1,5 @@
+4 2
+Mihai 10
+Ion 5
+Alex 20
+Andrei 30
