@@ -1,0 +1,1 @@
+unsigned estePar(unsigned long long n);
